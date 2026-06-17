@@ -15,7 +15,7 @@ A lightweight local macro tracking web app with built-in persistence and a simpl
 
 1. Open a terminal in the project root:
    ```bash
-   cd c:\Users\AZheng1\Documents\macro-tracker
+   cd ///macro-tracker
    ```
 2. Install dependencies:
    ```bash
