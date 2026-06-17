@@ -1,0 +1,12 @@
+{
+  "name": "macro-tracker",
+  "version": "1.0.0",
+  "description": "Local macro tracker with a node backend for persisted meal data.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
